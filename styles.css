@@ -404,7 +404,7 @@ footer {
         background: url(./images/icon-hamburger.svg) no-repeat 0 0;
         background-size: cover;
         cursor: pointer;
-        transform: rotate(-90deg);
+        transform: rotate(-180deg);
         transition: transform 1.1s;
     }
     
